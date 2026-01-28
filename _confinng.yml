@@ -1,3 +1,4 @@
 title: 蜘蛛帮主的网
 description: 一句简单的网站描述
 theme: jekyll-theme-minimal
+remote_theme: pages-themes/hacker@v0.2.0
